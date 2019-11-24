@@ -1,5 +1,6 @@
 # C-Console-Quiz-app
 Quiz app mainly formed by fstream library.
+-
 The app uses the file pointer to read from the file and to write into it of a .txt file.
 
 The order of the file is written as: 
