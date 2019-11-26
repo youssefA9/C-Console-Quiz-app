@@ -209,7 +209,7 @@ int main()
 		char answ,choicy;
 		string choice[4];
 		string ri_answ;
-		orig_file.open("Default_Questions.txt");
+		orig_file.open("exam_questions.txt");
 		
 		//Loading a new file
 		if (dest != "bamboozle.txt") {
